@@ -8,9 +8,9 @@ x.addEventListener('click' , function() {
     y.type='password';
    }
    if(img.src.includes('open')){
-        img.src='eye close.svg';
+        img.src='images/eye close.svg';
    }
    else{
-    img.src='eye open.svg';
+        img.src='images/eye open.svg';
    }
 })
